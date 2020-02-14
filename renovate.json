@@ -1,3 +1,6 @@
 {
-  "extends": ["config:js-app", "algolia"]
+  "extends": ["config:js-app", "algolia"],
+  "schedule": null,
+  "prHourlyLimit": 0,
+  "prConcurrentLimit": 0
 }
