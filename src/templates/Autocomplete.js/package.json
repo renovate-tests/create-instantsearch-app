@@ -10,7 +10,7 @@
     "lint:fix": "npm run lint -- --fix"
   },
   "dependencies": {
-    "algoliasearch": "3.30.0",
+    "algoliasearch": "4.0.3",
     "autocomplete.js": "{{libraryVersion}}"
   },
   "devDependencies": {
